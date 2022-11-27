@@ -1,0 +1,125 @@
+.img{
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 30px;
+    position: absolute;
+}
+.img img{
+    height: 55px;
+}
+.img-1{
+    background:#00579c;
+}
+.recent .img-1 img{
+    height: 55px;
+}
+.recent .img-2{
+     margin-left: 140px;
+     background-color: #0288d0;
+}
+.recent .top-heading{
+    color:#8d949a;
+    margin: 10px;
+    position: absolute;
+    font-weight: bold;
+    font-size: 17px;
+}
+.img-3{
+    margin-left: 253px;
+    background-color: #00acc2;
+}
+.img-4{
+    margin-left: 360px;
+    background-color: #03a9f5;
+}
+.next-task{
+    color: #8d949a;
+    margin-top: 150px;
+    position: absolute;
+    margin-left: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Fira Sans', sans-serif;
+}
+.img-5{
+    margin-top: 190px;
+    margin-left: 20px;
+    background-color: #2d3035;
+}
+.head, .sub-head{
+    color: white;
+    margin-top: 190px;
+    position: absolute;
+    margin-left: 110px;
+}
+.head{
+    font-size: 20px;
+    font-weight:bold;
+}
+.sub-head{
+    margin-top: 225px;
+}
+.see{
+    display: flex;
+    justify-content: center;
+}
+.see-more{
+    color: white;
+    position: absolute;
+    margin-top: 300px;
+    background: #4888c6;
+    border: none;
+    padding-top: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.course-progress{
+    height: 250px;
+    width: 95%;
+    margin-left: 15px;
+    background: #282b30;
+    border-radius:10px;
+}
+.course-progress .top-heading{
+    color: #8d949a;
+    margin: 10px;
+    position: absolute;
+    font-weight: bold;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+.first img{
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.course-name{
+    color: white;
+    position:absolute;
+    margin-top: -60px;
+    margin-left: 120px;
+    font-weight: bold;
+    font-size: 17px;
+}
+.course-status{
+    color: #8d949a;
+    margin-top:-40px;
+    margin-left: 120px;
+}
+.second img{
+    border-radius:50%;
+    height:70px;
+    margin-top:30px;
+    margin-left:20px;
+}

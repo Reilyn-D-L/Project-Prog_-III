@@ -1,0 +1,73 @@
+.streak{
+    height:110px;
+    background-color: #32373d;
+    width: 95%;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+.top .str{
+    color: #8d949a;
+    font-weight: bold;
+    font-family: 'Fira Sans',sans-serif;
+    margin: 5px;
+    margin-top: 5px;
+    position: absolute;
+}
+.top .days{
+    color: #b9615c;
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+    font-family: 'Fira Sans',sans-serif;
+    font-weight: bold;
+}
+.fa-circle-check{
+    color: #5484b5;
+}
+.tick svg{
+    margin: 10px;
+    margin-top: 50px;
+}
+.circle{
+    height: 34px;
+    width: 34px;
+    background: #555e65;
+    position: absolute;
+    margin-top: -55px;
+    border-radius: 50%;
+    margin-left: 270px;
+}
+.circle_2{
+    height: 34px;
+    width: 34px;
+    background: #555e65;
+    position: absolute;
+    margin-top: -55px;
+    border-radius: 50%;
+    margin-left: 340px;
+}
+.circle_3{
+    height: 34px;
+    width: 34px;
+    background: #555e65;
+    position: absolute;
+    margin-top: -55px;
+    border-radius: 50%;
+    margin-left: 410px;
+}
+.daily-goal{
+   height: 160px;
+   width: 95%;
+   margin-left: 15px;
+   background: #32373d;
+   border-radius: 10px;
+   color: white;
+}
+.daily-goal .top-heading{
+    color: #8d949a;
+    font-family: 'Fira Sans',sans-serif;
+    font-weight: bolder;
+    margin: 10px;
+    position: absolute; 
+    z-index: 1;
+}

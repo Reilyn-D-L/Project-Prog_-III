@@ -1,0 +1,36 @@
+.profile{
+    border-radius: 50%;
+    height: 150px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.587);
+}
+.badge{
+    height: 60px;
+    z-index: 1000;
+    margin-left: -60px;
+    position: absolute;
+    margin-top: 100px;
+}
+.name{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Fira Sans',sans-serif;
+}
+.country{
+    text-align: center;
+    color: white;
+    font-family: 'Fira Sans',sans-serif;
+}
+.country svg{
+    height: 13px;
+}
+.about{
+    text-align: center;
+    color: white;
+    font-family: 'Fira Sans',sans-serif;
+}
+.follow{
+    text-align: center;
+    color: white;
+    font-family: 'Fira Sans',sans-serif;
+}
